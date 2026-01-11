@@ -90,6 +90,7 @@ DIVIDE(
     SUM(Sales[Sales]),
     0
 )
+```
 
 Prayag Dutt Upadhyay
 GitHub: https://github.com/Prayag077
