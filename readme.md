@@ -67,6 +67,9 @@ The dataset includes transaction-level sales data with the following attributes:
 ### Dashboard Overview
 ![Dashboard Overview](screenshots/1.png)
 
+### Sales Forecast
+![Sales Forecast](screenshots/2.png)
+
 ---
 
 ## Tools & Technologies
